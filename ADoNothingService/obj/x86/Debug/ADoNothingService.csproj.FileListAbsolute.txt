@@ -1,0 +1,11 @@
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\bin\Debug\ProjectInstaller.resx
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\bin\Debug\ProjectInstaller.cs
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\bin\Debug\ProjectInstaller.Designer.cs
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\bin\Debug\ADoNothingService.exe
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\bin\Debug\ADoNothingService.pdb
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\obj\x86\Debug\ADoNothingService.ProjectInstaller.resources
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\obj\x86\Debug\ADoNothingService.exe
+C:\Users\erose\Documents\Visual Studio 2010\Projects\ADoNothingService\ADoNothingService\obj\x86\Debug\ADoNothingService.pdb

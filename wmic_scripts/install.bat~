@@ -1,0 +1,12 @@
+set msipath="\\dt-dell4h5vkm1\netdrop\ADoNothingServiceInstaller.msi"
+rem set node="dt-dell4h5vkm1"
+set node="msmq2008"
+wmic /node: %node% product install true,"",%msipath%
+
+
+rem uneeded fix?
+rem set tmppath="\\msmq2008\inetpub\temp\ADoNothingServiceInstaller.msi"
+rem copy %msipath% %tmppath%
+rem wmic /node: %node% product install true,"",%tmppath%
+rem del %tmppath%
+
